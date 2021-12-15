@@ -1,0 +1,3 @@
+# YOU KNOW ME CLI APP
+
+This is just a quiz app to test you about my personal information or details that may be my education backgrounds, place of birth etc....
